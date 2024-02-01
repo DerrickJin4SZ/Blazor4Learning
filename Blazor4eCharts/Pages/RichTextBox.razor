@@ -1,0 +1,47 @@
+﻿@page "/richtextbox4tiny"
+@using TinyMCE.Blazor
+
+<h3>RichTextBox</h3>
+
+
+ <h1>Hello, world!</h1>
+ Welcome to your new app.
+<br />
+<MudButton  @onclick="printContext">printContext</MudButton>
+<br />
+<MudButton @onclick="AddContent">AddContent</MudButton>
+<Editor @bind-Value="context" Field="() => context"
+  Conf="@TinyMCEConfig"
+  Id="myEditor"
+  ScriptSrc="lib/tinymce/tinymce.min.js"
+/>
+
+@code {
+
+    private string context =string.Empty;
+
+    public static Dictionary<string, object> TinyMCEConfig { get; set; } = new()
+    {
+        // 配置项
+        { "plugins", "link" },
+        { "toolbar", "styles " +
+            "| fontfamily fontsize forecolor " +
+            "| bullist numlist"+
+            "| link" +
+            "| bold italic " +
+            "| alignleft aligncenter alignright lineheight"},
+        { "toolbar_mode", "wrap" },
+        { "promotion", false }
+    };
+
+
+    private void printContext()
+    {
+        Console.WriteLine(context);
+    }
+
+    private void AddContent()
+    {
+        context += "<br><p>1.Description</p>";
+    }
+}

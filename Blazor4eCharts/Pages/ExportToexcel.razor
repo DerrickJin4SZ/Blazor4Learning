@@ -1,0 +1,97 @@
+﻿@page "/exportToexcel"
+@using Blazor4eCharts.Data
+@using ClosedXML.Excel
+@using Microsoft.AspNetCore.Mvc
+@inject WeatherForecastService ForecastService
+@inject IJSRuntime JSRuntime
+
+
+
+
+<h3>exportToexcel</h3>
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+<button @onclick="exportToexcelByXML">export to excel</button>
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Temp. (C)</th>
+                <th>Temp. (F)</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var forecast in forecasts)
+            {
+                <tr>
+                    <td>@forecast.Date.ToShortDateString()</td>
+                    <td>@forecast.TemperatureC</td>
+                    <td>@forecast.TemperatureF</td>
+                    <td>@forecast.Summary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private WeatherForecast[]? forecasts;
+    private IJSObjectReference _exportJs;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+    }
+
+
+    public async Task exportToexcelByXML()
+    {
+        using (var workbook = new XLWorkbook())
+        {
+            var worksheet = workbook.Worksheets.Add("Forecasts");
+            var currentRow = 1;
+
+            #region Header
+            worksheet.Cell(currentRow, 1).Value = "Date";
+            worksheet.Cell(currentRow, 2).Value = "Temp. (C)";
+            worksheet.Cell(currentRow, 3).Value = "Temp. (F)";
+            worksheet.Cell(currentRow, 4).Value = "Summary";
+            #endregion
+
+            #region Body
+            foreach (var weather in forecasts)
+            {
+                currentRow++;
+                worksheet.Cell(currentRow, 1).Value = weather.Date;
+                worksheet.Cell(currentRow, 2).Value = weather.TemperatureC;
+                worksheet.Cell(currentRow, 3).Value = weather.TemperatureF;
+                worksheet.Cell(currentRow, 4).Value = weather.Summary;
+            }
+            #endregion
+
+            using (var stream = new MemoryStream())
+            {
+                workbook.SaveAs(stream);
+                var content = stream.ToArray();
+
+                var contentName = "WeatherForcast.xlsx";
+                var contentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                _exportJs = await JSRuntime.InvokeAsync<IJSObjectReference>("import", "./Pages/ExportToexcel.razor.js");
+                await _exportJs.InvokeVoidAsync("BlazorDownloadFile", contentName, contentType, content);
+            }
+        }
+    }
+
+
+
+
+}
