@@ -1,5 +1,7 @@
 ﻿@page "/richtextbox4tiny"
 @using TinyMCE.Blazor
+@using ClosedXML.Excel
+@inject IJSRuntime JSRuntime
 
 <h3>RichTextBox</h3>
 
@@ -10,7 +12,8 @@
 <MudButton  @onclick="printContext">printContext</MudButton>
 <br />
 <MudButton @onclick="AddContent">AddContent</MudButton>
-<Editor @bind-Value="context" Field="() => context"
+<Editor @ref="editor"
+  @bind-Value="context" Field="() => context"
   Conf="@TinyMCEConfig"
   Id="myEditor"
   ScriptSrc="lib/tinymce/tinymce.min.js"
@@ -19,6 +22,8 @@
 @code {
 
     private string context =string.Empty;
+    private IJSObjectReference _exportJs;
+    private TinyMCE.Blazor.Editor? editor;
 
     public static Dictionary<string, object> TinyMCEConfig { get; set; } = new()
     {
@@ -35,9 +40,36 @@
     };
 
 
-    private void printContext()
+    private async Task printContext()
     {
         Console.WriteLine(context);
+
+        //获得template地址
+        string rootpath = System.IO.Path.Combine(System.IO.Directory.GetCurrentDirectory(), "wwwroot");
+        var fileStream = System.IO.File.OpenRead(rootpath+"/template/Investigation Appendix Template.xlsx");
+        //读取template信息
+        using (var workbook = new XLWorkbook(fileStream))
+        {
+            //获得第一个worksheet
+            var worksheet1 = workbook.Worksheet(1);
+            string text = editor?.Text;
+            worksheet1.Cell("A6").Value = text;
+
+
+
+            using (var stream = new MemoryStream())
+            {
+                workbook.SaveAs(stream);
+                var content = stream.ToArray();
+
+                var contentName = "Appendix.xlsx";
+                var contentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                _exportJs = await JSRuntime.InvokeAsync<IJSObjectReference>("import", "./Pages/RichTextBox.razor.js");
+                await _exportJs.InvokeVoidAsync("BlazorDownloadFile", contentName, contentType, content);
+            }
+        }
+
+
     }
 
     private void AddContent()

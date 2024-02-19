@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Pages\\ExportToexcel.razor.js"
     },
     {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\Pages\\RichTextBox.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\RichTextBox.razor.js"
+    },
+    {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Blazor4Learning.bundle.scp.css",
       "PackagePath": "staticwebassets\\Blazor4Learning.bundle.scp.css"
     },
@@ -1447,6 +1451,46 @@
     {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\tinymce.min.js",
       "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2023090814282682.jpg",
+      "PackagePath": "staticwebassets\\pic\\2023090814282682.jpg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2023110813492523.dng",
+      "PackagePath": "staticwebassets\\pic\\2023110813492523.dng"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2023110815045080.jfif",
+      "PackagePath": "staticwebassets\\pic\\2023110815045080.jfif"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2024011514251092.jpeg",
+      "PackagePath": "staticwebassets\\pic\\2024011514251092.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2024011814480731.jpg",
+      "PackagePath": "staticwebassets\\pic\\2024011814480731.jpg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2024020120551097.PNG",
+      "PackagePath": "staticwebassets\\pic\\2024020120551097.PNG"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2024020415485224.jpeg",
+      "PackagePath": "staticwebassets\\pic\\2024020415485224.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2024020520303831.PNG",
+      "PackagePath": "staticwebassets\\pic\\2024020520303831.PNG"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2024020521263417.PNG",
+      "PackagePath": "staticwebassets\\pic\\2024020521263417.PNG"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\template\\Investigation Appendix Template.xlsx",
+      "PackagePath": "staticwebassets\\template\\Investigation Appendix Template.xlsx"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Blazor4Learning.Microsoft.AspNetCore.StaticWebAssets.props",
