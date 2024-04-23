@@ -16,3 +16,18 @@ export function BlazorDownloadFile(filename, contentType, content) {
     // On older versions of Safari, it seems you need to comment this line...
     URL.revokeObjectURL(exportUrl);
 }
+
+
+export async function createCanvas(elementId) {
+    var element = document.getElementById(elementId);
+
+    // Convert the HTML element to a canvas using html2canvas library
+    var imageData = null;
+    await html2canvas(element).then(function (canvas) {
+        // Convert the canvas to a data URL (Base64-encoded string)
+        imageData = canvas.toDataURL("image/png");
+        console.log('createCanvas - JS: image data type = ', typeof imageData);
+        
+    });
+    return imageData;
+}

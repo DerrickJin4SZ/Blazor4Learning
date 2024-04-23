@@ -38,8 +38,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/QRScanDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUVJTY2FuRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/RichTextBox.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmljaFRleHRCb3gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/ScanQRcode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NhblFSY29kZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/SystemCharts.razor]

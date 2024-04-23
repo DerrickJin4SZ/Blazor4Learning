@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-26T02:41:03.8409156Z;True|2024-02-20T15:56:17.2254771+08:00;True|2024-02-20T15:46:53.2953249+08:00;True|2024-02-20T15:45:36.5957420+08:00;True|2024-02-20T15:43:24.2890504+08:00;True|2024-02-20T15:42:00.2990704+08:00;True|2024-02-20T15:40:32.1398683+08:00;True|2024-02-20T15:35:04.5532370+08:00;True|2024-02-20T15:25:47.4070947+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -3,6 +3,5 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.analyzers\6.0.26\buildTransitive\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.analyzers\6.0.26\buildTransitive\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.targets')" />
-    <Import Project="$(NuGetPackageRoot)tinymce\6.8.2\build\TinyMCE.targets" Condition="Exists('$(NuGetPackageRoot)tinymce\6.8.2\build\TinyMCE.targets')" />
   </ImportGroup>
 </Project>

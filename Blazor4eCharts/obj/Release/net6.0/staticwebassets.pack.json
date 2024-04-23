@@ -1,0 +1,1481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\Pages\\ExportToexcel.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\ExportToexcel.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\Pages\\RichTextBox.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\RichTextBox.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Blazor4Learning.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blazor4Learning.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langCS-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langCS-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langCS-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langCS-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langCS.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langCS.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langCS.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langCS.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langDE-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langDE-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langDE-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langDE-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langDE.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langDE.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langDE.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langDE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langEN-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langEN-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langEN-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langEN-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langEN.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langEN.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langEN.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langEN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langES-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langES-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langES-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langES-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langES.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langES.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langES.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFI-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFI-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFI-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFI-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFI.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFI.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFI.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFR-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFR-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFR-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFR-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFR.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFR.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langFR.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langFR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langHU-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langHU-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langHU-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langHU-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langHU.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langHU.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langHU.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langHU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langIT-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langIT-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langIT-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langIT-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langIT.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langIT.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langIT.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langIT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langJA-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langJA-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langJA-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langJA-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langJA.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langJA.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langJA.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langJA.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langKO-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langKO-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langKO-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langKO-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langKO.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langKO.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langKO.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langKO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPL-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPL-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPL-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPL-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPL.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPL.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPL.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPT-br-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPT-br-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPT-br-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPT-br-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPT-br.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPT-br.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langPT-br.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langPT-br.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRO-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRO-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRO-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRO-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRO.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRO.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRO.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRU-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRU-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRU-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRU-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRU.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRU.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langRU.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langRU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langSI-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langSI-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langSI-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langSI-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langSI.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langSI.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langSI.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langSI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTH-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTH-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTH-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTH-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTH.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTH.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTH.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTH.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTR-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTR-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTR-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTR-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTR.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTR.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langTR.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langTR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langUK-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langUK-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langUK-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langUK-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langUK.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langUK.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langUK.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langUK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langVI-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langVI-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langVI-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langVI-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langVI.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langVI.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langVI.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langVI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langZH-obj.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langZH-obj.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langZH-obj.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langZH-obj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langZH.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langZH.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\i18n\\langZH.min.js",
+      "PackagePath": "staticwebassets\\echarts\\i18n\\langZH.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\azul.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\azul.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\azul.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\azul.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\bee-inspired.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\bee-inspired.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\bee-inspired.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\bee-inspired.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\blue.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\blue.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\blue.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\blue.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\caravan.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\caravan.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\caravan.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\caravan.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\carp.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\carp.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\carp.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\carp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\cool.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\cool.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\cool.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\cool.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-blue.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-blue.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-blue.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-blue.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-bold.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-bold.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-bold.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-bold.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-digerati.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-digerati.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-digerati.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-digerati.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-fresh-cut.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-fresh-cut.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-fresh-cut.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-fresh-cut.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-mushroom.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-mushroom.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark-mushroom.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark-mushroom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\dark.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\dark.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\eduardo.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\eduardo.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\eduardo.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\eduardo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\forest.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\forest.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\forest.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\forest.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\fresh-cut.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\fresh-cut.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\fresh-cut.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\fresh-cut.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\fruit.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\fruit.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\fruit.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\fruit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\gray.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\gray.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\gray.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\gray.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\green.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\green.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\green.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\green.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\helianthus.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\helianthus.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\helianthus.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\helianthus.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\infographic.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\infographic.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\infographic.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\infographic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\inspired.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\inspired.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\inspired.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\inspired.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\jazz.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\jazz.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\jazz.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\jazz.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\london.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\london.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\london.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\london.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\macarons.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\macarons.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\macarons.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\macarons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\macarons2.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\macarons2.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\macarons2.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\macarons2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\mint.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\mint.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\mint.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\mint.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\red-velvet.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\red-velvet.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\red-velvet.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\red-velvet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\red.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\red.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\red.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\red.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\roma.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\roma.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\roma.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\roma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\royal.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\royal.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\royal.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\royal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\sakura.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\sakura.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\sakura.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\sakura.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\shine.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\shine.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\shine.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\shine.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\tech-blue.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\tech-blue.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\tech-blue.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\tech-blue.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\vintage.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\vintage.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\echarts\\theme\\vintage.min.js",
+      "PackagePath": "staticwebassets\\echarts\\theme\\vintage.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\js\\weather.js",
+      "PackagePath": "staticwebassets\\js\\weather.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2023090814282682.jpg",
+      "PackagePath": "staticwebassets\\pic\\2023090814282682.jpg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\template\\Investigation Appendix Template.xlsx",
+      "PackagePath": "staticwebassets\\template\\Investigation Appendix Template.xlsx"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Blazor4Learning.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Blazor4Learning.props",
+      "PackagePath": "build\\Blazor4Learning.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Blazor4Learning.props",
+      "PackagePath": "buildMultiTargeting\\Blazor4Learning.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Blazor4Learning.props",
+      "PackagePath": "buildTransitive\\Blazor4Learning.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -5,6 +5,11 @@
     {
       "library": "echarts@5.4.3",
       "destination": "wwwroot/echarts/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "html2canvas@1.4.1",
+      "destination": "wwwroot/lib/html2canvas/"
     }
   ]
 }

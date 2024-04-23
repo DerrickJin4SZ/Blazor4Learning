@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "BootstrapBlazor": {
+              "target": "Package",
+              "version": "[8.4.7, )"
+            },
+            "BootstrapBlazor.SummerNote": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "ClosedXML": {
               "target": "Package",
               "version": "[0.102.2, )"
@@ -56,6 +64,10 @@
               "target": "Package",
               "version": "[6.0.25, )"
             },
+            "Microsoft.JSInterop": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
             "MudBlazor": {
               "target": "Package",
               "version": "[6.15.0, )"
@@ -63,14 +75,6 @@
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[8.0.2, )"
-            },
-            "TinyMCE": {
-              "target": "Package",
-              "version": "[6.8.2, )"
-            },
-            "TinyMCE.Blazor": {
-              "target": "Package",
-              "version": "[1.0.4, )"
             }
           },
           "imports": [
@@ -92,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

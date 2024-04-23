@@ -13,8 +13,9 @@
     <SourceRoot Include="C:\Users\320184058\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)tinymce.blazor\1.0.4\buildTransitive\TinyMCE.Blazor.props" Condition="Exists('$(NuGetPackageRoot)tinymce.blazor\1.0.4\buildTransitive\TinyMCE.Blazor.props')" />
     <Import Project="$(NuGetPackageRoot)mudblazor\6.15.0\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\6.15.0\buildTransitive\MudBlazor.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.25\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.25\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)bootstrapblazor\8.4.7\buildTransitive\BootstrapBlazor.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor\8.4.7\buildTransitive\BootstrapBlazor.props')" />
+    <Import Project="$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.2\buildTransitive\BootstrapBlazor.SummerNote.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.2\buildTransitive\BootstrapBlazor.SummerNote.props')" />
   </ImportGroup>
 </Project>
