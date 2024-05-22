@@ -1,4 +1,5 @@
 using Blazor4eCharts.Data;
+using Blazor4Learning.Services;
 using DataAccessLibrary;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
@@ -9,7 +10,7 @@ using System.Net;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
+builder.Services.AddScoped<UploadPicAndVideoService>();
 
 // Add services to the container.
 builder.Services.AddBootstrapBlazor();
@@ -18,6 +19,7 @@ builder.Services.AddMudServices();
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+
 builder.Services.AddScoped<SqlDataAccess>();
 builder.Services.AddScoped<KeycloakSqlDataAccess>();
 

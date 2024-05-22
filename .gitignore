@@ -539,3 +539,7 @@ FodyWeavers.xsd
 
 appsettings.json
 /Blazor4eCharts/wwwroot/template/Investigation Appendix Template.xlsx
+/Blazor4eCharts/ffmpeg.exe
+/Blazor4eCharts/wwwroot/video
+/Blazor4eCharts/wwwroot/pic
+/Blazor4eCharts/wwwroot/CaseUploads

@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,6 +53,10 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "BootstrapBlazor.VideoPlayer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "ClosedXML": {
               "target": "Package",
               "version": "[0.102.2, )"
@@ -55,6 +64,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.24, )"
+            },
+            "FFMpegCore": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
@@ -96,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

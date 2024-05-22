@@ -7,9 +7,12 @@
       "destination": "wwwroot/echarts/"
     },
     {
-      "provider": "cdnjs",
       "library": "html2canvas@1.4.1",
       "destination": "wwwroot/lib/html2canvas/"
+    },
+    {
+      "library": "video.js@8.14.0",
+      "destination": "wwwroot/lib/video.js/"
     }
   ]
 }

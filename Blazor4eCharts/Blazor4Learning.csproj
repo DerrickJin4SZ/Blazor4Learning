@@ -9,8 +9,10 @@
   <ItemGroup>
     <PackageReference Include="BootstrapBlazor" Version="8.4.7" />
     <PackageReference Include="BootstrapBlazor.SummerNote" Version="8.0.2" />
+    <PackageReference Include="BootstrapBlazor.VideoPlayer" Version="8.0.6" />
     <PackageReference Include="ClosedXML" Version="0.102.2" />
     <PackageReference Include="Dapper" Version="2.1.24" />
+    <PackageReference Include="FFMpegCore" Version="5.1.0" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.25" />
     <PackageReference Include="Microsoft.JSInterop" Version="6.0.28" />

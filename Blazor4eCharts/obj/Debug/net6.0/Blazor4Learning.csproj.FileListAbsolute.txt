@@ -72,7 +72,6 @@ C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\s
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\scopedcss\bundle\Blazor4Learning.styles.css
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\scopedcss\projectbundle\Blazor4Learning.bundle.scp.css
-C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\Blazor4Learning.csproj.CopyComplete
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\Blazor4Learning.dll
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\refint\Blazor4Learning.dll
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\Blazor4Learning.pdb
@@ -91,3 +90,10 @@ C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\M
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\BootstrapBlazor.dll
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\BootstrapBlazor.SummerNote.dll
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\Blazor4L.F9C9F3EF.Up2Date
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\BootstrapBlazor.VideoPlayer.dll
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\FFMpegCore.dll
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\Instances.dll
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

@@ -7,7 +7,7 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\320184058\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.8.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.9.2</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\320184058\.nuget\packages\" />
@@ -15,6 +15,7 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)mudblazor\6.15.0\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\6.15.0\buildTransitive\MudBlazor.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.25\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.25\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)bootstrapblazor.videoplayer\8.0.6\buildTransitive\BootstrapBlazor.VideoPlayer.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor.videoplayer\8.0.6\buildTransitive\BootstrapBlazor.VideoPlayer.props')" />
     <Import Project="$(NuGetPackageRoot)bootstrapblazor\8.4.7\buildTransitive\BootstrapBlazor.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor\8.4.7\buildTransitive\BootstrapBlazor.props')" />
     <Import Project="$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.2\buildTransitive\BootstrapBlazor.SummerNote.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.2\buildTransitive\BootstrapBlazor.SummerNote.props')" />
   </ImportGroup>

@@ -17,6 +17,110 @@
       "PackagePath": "staticwebassets\\Blazor4Learning.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716330250.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716330250.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716340561.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716340561.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716342112.jpg",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716342112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716431212.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716431212.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716455444.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716455444.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716481854.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716481854.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716482482.jpg",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716482482.jpg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716551266.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716551266.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024050716553868.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024050716553868.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051011281890.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051011281890.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051015115355.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051015115355.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051015131992.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051015131992.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051015152095.mov",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051015152095.mov"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051015154412.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051015154412.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051015162093.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051015162093.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051015162093.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051015162093.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016132125.mov",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016132125.mov"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016140085.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016140085.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016185815.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016185815.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016194568.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016194568.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016213601.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016213601.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016262132.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016262132.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016403697.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016403697.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016403697.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016403697.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016450603.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016450603.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051016450603.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051016450603.mp4"
+    },
+    {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -733,6 +837,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\js\\VideoPlayer.js",
+      "PackagePath": "staticwebassets\\js\\VideoPlayer.js"
+    },
+    {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\js\\weather.js",
       "PackagePath": "staticwebassets\\js\\weather.js"
     },
@@ -757,12 +865,1040 @@
       "PackagePath": "staticwebassets\\lib\\jsQR.js"
     },
     {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video-js-cdn.css",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video-js-cdn.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video-js-cdn.min.css",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video-js-cdn.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.core.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.core.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.core.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.core.novtt.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.core.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.core.novtt.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.core.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.debug.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.debug.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.debug.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.novtt.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\alt\\video.novtt.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\alt\\video.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\font\\VideoJS.svg",
+      "PackagePath": "staticwebassets\\lib\\video.js\\font\\VideoJS.svg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\font\\VideoJS.ttf",
+      "PackagePath": "staticwebassets\\lib\\video.js\\font\\VideoJS.ttf"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\font\\VideoJS.woff",
+      "PackagePath": "staticwebassets\\lib\\video.js\\font\\VideoJS.woff"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\az.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\az.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ba.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ba.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ba.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ba.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\bg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\bn.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\bn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\cy.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\cy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\da.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\de.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\el.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\en-GB.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\en-GB.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\en-GB.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\en-GB.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\en.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\en.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\et.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\gd.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\gd.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\gd.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\gd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\gl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\he.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\it.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\lv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\mr.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\mr.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\mr.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\mr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\nb.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\nb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\nn.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\nn.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\nn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\np.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\np.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\np.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\np.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\oc.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\oc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\pt-BR.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\pt-BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\pt-BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\pt-PT.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\pt-PT.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\pt-PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\pt-PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\te.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\te.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\te.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\te.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\th.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-CN.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-CN.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-CN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-Hans.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-Hans.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-Hans.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-Hans.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-Hant.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-Hant.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-Hant.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-Hant.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-TW.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\lang\\zh-TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\lang\\zh-TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\big-play-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\big-play-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\clickable-component.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\clickable-component.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\close-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\close-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\component.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\component.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\consts\\errors.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\consts\\errors.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\audio-track-controls\\audio-track-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\audio-track-controls\\audio-track-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\audio-track-controls\\audio-track-menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\audio-track-controls\\audio-track-menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\control-bar.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\control-bar.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\fullscreen-toggle.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\fullscreen-toggle.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\live-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\live-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\mute-toggle.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\mute-toggle.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\picture-in-picture-toggle.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\picture-in-picture-toggle.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\play-toggle.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\play-toggle.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\playback-rate-menu\\playback-rate-menu-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\playback-rate-menu\\playback-rate-menu-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\playback-rate-menu\\playback-rate-menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\playback-rate-menu\\playback-rate-menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\progress-control\\load-progress-bar.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\progress-control\\load-progress-bar.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\progress-control\\mouse-time-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\progress-control\\mouse-time-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\progress-control\\play-progress-bar.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\progress-control\\play-progress-bar.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\progress-control\\progress-control.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\progress-control\\progress-control.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\progress-control\\seek-bar.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\progress-control\\seek-bar.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\progress-control\\time-tooltip.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\progress-control\\time-tooltip.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\seek-to-live.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\seek-to-live.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\skip-buttons\\skip-backward.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\skip-buttons\\skip-backward.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\skip-buttons\\skip-forward.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\skip-buttons\\skip-forward.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\spacer-controls\\custom-control-spacer.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\spacer-controls\\custom-control-spacer.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\spacer-controls\\spacer.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\spacer-controls\\spacer.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\caption-settings-menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\caption-settings-menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\captions-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\captions-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\chapters-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\chapters-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\chapters-track-menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\chapters-track-menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\descriptions-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\descriptions-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\off-text-track-menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\off-text-track-menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\subs-caps-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\subs-caps-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\subs-caps-menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\subs-caps-menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\subtitles-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\subtitles-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\text-track-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\text-track-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\text-track-controls\\text-track-menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\text-track-controls\\text-track-menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\time-controls\\current-time-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\time-controls\\current-time-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\time-controls\\duration-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\time-controls\\duration-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\time-controls\\remaining-time-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\time-controls\\remaining-time-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\time-controls\\time-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\time-controls\\time-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\time-controls\\time-divider.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\time-controls\\time-divider.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\track-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\track-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-control\\check-mute-support.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-control\\check-mute-support.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-control\\check-volume-support.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-control\\check-volume-support.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-control\\mouse-volume-level-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-control\\mouse-volume-level-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-control\\volume-bar.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-control\\volume-bar.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-control\\volume-control.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-control\\volume-control.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-control\\volume-level-tooltip.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-control\\volume-level-tooltip.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-control\\volume-level.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-control\\volume-level.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\control-bar\\volume-panel.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\control-bar\\volume-panel.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\debug.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\debug.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\error-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\error-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\event-target.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\event-target.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\fullscreen-api.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\fullscreen-api.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\index.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\index.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\live-tracker.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\live-tracker.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\loading-spinner.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\loading-spinner.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\media-error.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\media-error.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\menu\\menu-button.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\menu\\menu-button.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\menu\\menu-item.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\menu\\menu-item.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\menu\\menu-keys.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\menu\\menu-keys.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\menu\\menu.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\menu\\menu.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\mixins\\evented.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\mixins\\evented.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\mixins\\stateful.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\mixins\\stateful.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\modal-dialog.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\modal-dialog.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\player.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\player.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\plugin.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\plugin.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\poster-image.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\poster-image.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\resize-manager.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\resize-manager.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\setup.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\setup.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\slider\\slider.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\slider\\slider.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\spatial-navigation.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\spatial-navigation.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tech\\html5.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tech\\html5.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tech\\loader.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tech\\loader.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tech\\middleware.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tech\\middleware.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tech\\setup-sourceset.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tech\\setup-sourceset.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tech\\tech.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tech\\tech.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\title-bar.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\title-bar.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\audio-track-list.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\audio-track-list.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\audio-track.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\audio-track.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\html-track-element-list.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\html-track-element-list.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\html-track-element.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\html-track-element.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-cue-list.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-cue-list.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-display.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-display.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-fieldset.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-fieldset.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-list-converter.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-list-converter.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-list.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-list.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-select.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-select.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-settings-colors.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-settings-colors.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-settings-controls.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-settings-controls.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-settings-font.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-settings-font.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track-settings.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track-settings.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\text-track.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\text-track.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\track-enums.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\track-enums.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\track-list.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\track-list.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\track-types.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\track-types.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\track.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\track.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\video-track-list.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\video-track-list.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\tracks\\video-track.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\tracks\\video-track.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\browser.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\browser.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\buffer.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\buffer.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\create-logger.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\create-logger.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\deprecate.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\deprecate.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\dom-data.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\dom-data.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\dom.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\dom.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\events.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\events.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\filter-source.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\filter-source.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\fn.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\fn.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\guid.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\guid.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\hooks.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\hooks.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\log.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\log.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\mimetypes.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\mimetypes.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\num.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\num.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\obj.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\obj.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\promise.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\promise.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\spatial-navigation-key-codes.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\spatial-navigation-key-codes.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\str.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\str.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\stylesheet.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\stylesheet.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\time.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\time.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\utils\\url.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\utils\\url.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\types\\video.d.ts.map",
+      "PackagePath": "staticwebassets\\lib\\video.js\\types\\video.d.ts.map"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\video-js.css",
+      "PackagePath": "staticwebassets\\lib\\video.js\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\video-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\video.js\\video-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\video.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\video.js\\video.min.js",
+      "PackagePath": "staticwebassets\\lib\\video.js\\video.min.js"
+    },
+    {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2023090814282682.jpg",
       "PackagePath": "staticwebassets\\pic\\2023090814282682.jpg"
     },
     {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\template\\Investigation Appendix Template.xlsx",
       "PackagePath": "staticwebassets\\template\\Investigation Appendix Template.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-50-39.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-50-39.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-51-29.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-51-29.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-52-14.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-52-14.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-53-10.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-53-10.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-53-43.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-53-43.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-54-08.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-54-08.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-55-50.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-55-50.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-56-29.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-56-29.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\2024-05-06-08-57-11.mp4",
+      "PackagePath": "staticwebassets\\video\\2024-05-06-08-57-11.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\20240509_005200000_iOS.MOV",
+      "PackagePath": "staticwebassets\\video\\20240509_005200000_iOS.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\20240510_083832000_iOS.MOV",
+      "PackagePath": "staticwebassets\\video\\20240510_083832000_iOS.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\DigitalizationIntegration_TS_Andon_TPM.mp4",
+      "PackagePath": "staticwebassets\\video\\DigitalizationIntegration_TS_Andon_TPM.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\video\\demo.html",
+      "PackagePath": "staticwebassets\\video\\demo.html"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Blazor4Learning.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -54,6 +54,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ2hhcnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/UploadPicAndVideo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBsb2FkUGljQW5kVmlkZW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/VideoPlayer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9QbGF5ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/VideoPlayerDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9QbGF5ZXJEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
