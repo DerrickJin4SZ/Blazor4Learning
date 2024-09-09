@@ -13,6 +13,10 @@
     {
       "library": "video.js@8.14.0",
       "destination": "wwwroot/lib/video.js/"
+    },
+    {
+      "library": "viewerjs@1.11.6",
+      "destination": "wwwroot/lib/viewerjs/"
     }
   ]
 }

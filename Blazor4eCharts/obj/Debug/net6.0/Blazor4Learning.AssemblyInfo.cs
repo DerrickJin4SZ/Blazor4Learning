@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blazor4Learning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fe62f0dcd5368716d1e16592b7ab4a8bbe3fbf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ef989d768c7e340af0026402e70e153754e071")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blazor4Learning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazor4Learning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,10 +13,11 @@
     <SourceRoot Include="C:\Users\320184058\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)mudblazor\6.15.0\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\6.15.0\buildTransitive\MudBlazor.props')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.25\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.25\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)mudblazor\7.8.0\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\7.8.0\buildTransitive\MudBlazor.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.8\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.8\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
     <Import Project="$(NuGetPackageRoot)bootstrapblazor.videoplayer\8.0.6\buildTransitive\BootstrapBlazor.VideoPlayer.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor.videoplayer\8.0.6\buildTransitive\BootstrapBlazor.VideoPlayer.props')" />
-    <Import Project="$(NuGetPackageRoot)bootstrapblazor\8.4.7\buildTransitive\BootstrapBlazor.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor\8.4.7\buildTransitive\BootstrapBlazor.props')" />
-    <Import Project="$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.2\buildTransitive\BootstrapBlazor.SummerNote.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.2\buildTransitive\BootstrapBlazor.SummerNote.props')" />
+    <Import Project="$(NuGetPackageRoot)bootstrapblazor\8.9.1\buildTransitive\BootstrapBlazor.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor\8.9.1\buildTransitive\BootstrapBlazor.props')" />
+    <Import Project="$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.3\buildTransitive\BootstrapBlazor.SummerNote.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor.summernote\8.0.3\buildTransitive\BootstrapBlazor.SummerNote.props')" />
+    <Import Project="$(NuGetPackageRoot)blazorpro.blazorsize\8.0.0\buildTransitive\BlazorPro.BlazorSize.props" Condition="Exists('$(NuGetPackageRoot)blazorpro.blazorsize\8.0.0\buildTransitive\BlazorPro.BlazorSize.props')" />
   </ImportGroup>
 </Project>

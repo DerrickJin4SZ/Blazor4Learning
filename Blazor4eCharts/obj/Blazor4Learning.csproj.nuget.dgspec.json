@@ -18,15 +18,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,16 +42,20 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "BlazorPro.BlazorSize": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "BootstrapBlazor": {
               "target": "Package",
-              "version": "[8.4.7, )"
+              "version": "[8.9.1, )"
             },
             "BootstrapBlazor.SummerNote": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.3, )"
             },
             "BootstrapBlazor.VideoPlayer": {
               "target": "Package",
@@ -59,11 +63,11 @@
             },
             "ClosedXML": {
               "target": "Package",
-              "version": "[0.102.2, )"
+              "version": "[0.102.3, )"
             },
             "Dapper": {
               "target": "Package",
-              "version": "[2.1.24, )"
+              "version": "[2.1.35, )"
             },
             "FFMpegCore": {
               "target": "Package",
@@ -71,23 +75,23 @@
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[5.1.4, )"
+              "version": "[5.2.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.JSInterop": {
               "target": "Package",
-              "version": "[6.0.28, )"
+              "version": "[8.0.8, )"
             },
             "MudBlazor": {
               "target": "Package",
-              "version": "[6.15.0, )"
+              "version": "[7.8.0, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             }
           },
           "imports": [
@@ -109,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

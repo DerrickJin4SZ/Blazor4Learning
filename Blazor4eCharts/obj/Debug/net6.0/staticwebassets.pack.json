@@ -121,6 +121,30 @@
       "PackagePath": "staticwebassets\\CaseUploads\\2024051016450603.mp4"
     },
     {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051109364690.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051109364690.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051109364690.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051109364690.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051109373013.MOV",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051109373013.MOV"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051109373013.mp4",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051109373013.mp4"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051109373985.jpg",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051109373985.jpg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\CaseUploads\\2024051109585880.jpg",
+      "PackagePath": "staticwebassets\\CaseUploads\\2024051109585880.jpg"
+    },
+    {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -839,6 +863,10 @@
     {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\js\\VideoPlayer.js",
       "PackagePath": "staticwebassets\\js\\VideoPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\js\\viewerInterop.js",
+      "PackagePath": "staticwebassets\\js\\viewerInterop.js"
     },
     {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\js\\weather.js",
@@ -1841,8 +1869,44 @@
       "PackagePath": "staticwebassets\\lib\\video.js\\video.min.js"
     },
     {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.common.js",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.common.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.common.min.js",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.common.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.css",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.esm.js",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.js",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.js"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.min.css",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\lib\\viewerjs\\viewer.min.js",
+      "PackagePath": "staticwebassets\\lib\\viewerjs\\viewer.min.js"
+    },
+    {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\2023090814282682.jpg",
       "PackagePath": "staticwebassets\\pic\\2023090814282682.jpg"
+    },
+    {
+      "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\pic\\20240510_083832000_iOS.MOV",
+      "PackagePath": "staticwebassets\\pic\\20240510_083832000_iOS.MOV"
     },
     {
       "Id": "C:\\Users\\320184058\\source\\repos\\Blazor4eCharts\\Blazor4eCharts\\wwwroot\\template\\Investigation Appendix Template.xlsx",

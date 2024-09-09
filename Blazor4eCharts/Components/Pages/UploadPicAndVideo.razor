@@ -1,0 +1,158 @@
+﻿@page "/uploadPicAndVideo"
+@using FFMpegCore
+@using FFMpegCore.Enums
+@inject IWebHostEnvironment Environment
+@inject ISnackbar Snackbar
+@inject UploadPicAndVideoService UploadService
+
+
+<h3>UploadPicAndVideo</h3>
+
+<MudFileUpload T="IReadOnlyList<IBrowserFile>" Accept="image/*,.mp4,.MOV" FilesChanged="UploadFiles">
+    <ActivatorContent>
+        <MudButton HtmlTag="label" Disabled="@_processing"
+                   Variant="Variant.Filled"
+                   Color="Color.Warning"
+                   StartIcon="@Icons.Material.Filled.PhotoCamera"
+                   >
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">上传中</MudText>
+            }
+            else
+            {
+                <MudText>添加照片或视频</MudText>
+            }
+        </MudButton>
+    </ActivatorContent>
+</MudFileUpload>
+<br />
+<!-- PicList循环 -->
+<MudGrid Spacing="2">
+    @if (FilePathList.Count > 0)
+    {
+        @foreach (var filePath in FilePathList)
+        {
+            var src = filePath;
+            @if (src != "")
+            {
+                @if (src.Contains(".mp4"))
+                {
+                    <MudItem xs="12" sm="4">
+                        <MudBadge Icon="@Icons.Material.Filled.Close" Color="Color.Error"
+                                  Overlap="true" Bordered="true" OnClick="@(()=>DeleteFromFilePathList(src))">
+                            <VideoPlayer SourcesType="video/mp4" Autoplay=false SourcesUrl="@src" />
+                        </MudBadge>
+                    </MudItem>
+
+                }
+                else
+                {
+                    <MudItem xs="12" sm="4">
+                        <MudBadge Icon="@Icons.Material.Filled.Close" Color="Color.Error"
+                                  Overlap="true" Bordered="true" OnClick="@(()=>DeleteFromFilePathList(src))">
+                            <MudImage Src="@src" style="max-width: 300px;max-height: 300px" />
+                        </MudBadge>
+                    </MudItem>
+                }
+
+            }
+        }
+    }
+</MudGrid>
+
+@code {
+    private bool _processing = false;
+    private long maxFileSize = 1024 * 1024 * 10;
+    private List<string> FilePathList { get; set; } = new List<string>();
+
+    private async Task UploadFiles(IReadOnlyList<IBrowserFile> files)
+    {
+        try
+        {
+            _processing = true;
+            FilePathList = await UploadService.UploadFiles(files);
+            _processing = false;
+                    /*
+            foreach (var file in files)
+            {
+                if (file.ContentType.Contains("video/")) // Check for video content type
+                {
+                    // Handle video upload logic (e.g., validate size)
+                    maxFileSize = 1024 * 1024 * 100;
+                }
+                else
+                {
+                    maxFileSize = 1024 * 1024 * 10;
+                }
+                //生成随机名日期
+                string dateName = DateTime.Now.ToString("yyyyMMddHHmmss");
+                //生成两位随机数
+                Random objRandm = new Random();
+                dateName += objRandm.Next(0, 100).ToString("00");
+                var absolutefolderPath = Path.Combine(Environment.ContentRootPath, "wwwroot", "CaseUploads");
+                var relateivefloderPath = Path.Combine("..", "CaseUploads");
+
+                var fileExtension = Path.GetExtension(file.Name).ToString();
+                if (!Directory.Exists(absolutefolderPath))
+                {
+                    Directory.CreateDirectory(absolutefolderPath);
+                }
+                var absolutefileName = Path.Combine(absolutefolderPath, Path.ChangeExtension(dateName, fileExtension));
+                var relativefileName = Path.Combine(relateivefloderPath, Path.ChangeExtension(dateName, fileExtension));
+
+                //save file to local drive
+                await using FileStream fs = new(absolutefileName, FileMode.Create);
+                await file.OpenReadStream(maxFileSize).CopyToAsync(fs);
+
+                //判断是否为MOV格式文件
+                if (fileExtension.ToUpper() == ".MOV")
+                {
+                    var convertedVideoPath = absolutefileName.Replace(".MOV", ".mp4");
+                    // or individual, per-run options
+                    await FFMpegArguments
+                        .FromFileInput(absolutefileName)
+                        .OutputToFile(convertedVideoPath)
+                        .ProcessAsynchronously();
+                }
+
+                if (fileExtension.ToUpper() == ".MOV")
+                {
+                    FilePathList.Add(relativefileName.Replace(".MOV", ".mp4"));
+                }
+                else
+                {
+                    FilePathList.Add(relativefileName);
+                }
+
+
+
+
+            }
+            _processing = false;
+            */
+        }
+        catch (Exception ex)
+        {
+            _processing = false;
+            addSnackBar("Update Video & Pic Error!", Severity.Error);
+            Console.WriteLine(ex.Message+ex.StackTrace+ex.Source);
+        }
+        
+    }
+
+
+    private void DeleteFromFilePathList(string filePath)
+    {
+        FilePathList.Remove(filePath);
+    }
+
+    private void addSnackBar(string message, Severity severity = Severity.Normal, Variant variant = Variant.Filled, string position = Defaults.Classes.Position.BottomStart)
+    {
+        Snackbar.Clear();
+        Snackbar.Configuration.PositionClass = position;
+        Snackbar.Configuration.SnackbarVariant = variant;
+        Snackbar.Add(message, severity);
+    }
+}

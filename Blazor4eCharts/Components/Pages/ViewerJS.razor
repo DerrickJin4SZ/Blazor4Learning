@@ -1,0 +1,298 @@
+﻿@implements IAsyncDisposable
+@inject IJSRuntime JS
+@namespace Blazor4Learning.Components
+@using System.ComponentModel
+
+@if (UseBuiltinImageDiv)
+{
+    <!--
+    <div class="docs-galley mb-3" style="height: @Height;width:@Width; ">
+        <ul id="@Options.id" class="docs-pictures clearfix">
+            @{
+                var i = 0;
+                foreach (var item in Images)
+                {
+                    var alt = (Alts != null && Alts.Any() && Alts.Count > i) ? Alts[i] : (item.Split('/').Last());
+                    <li><img src="@item" alt="@alt"></li>
+                    i++;
+                }
+            }
+        </ul>
+    </div>
+    -->
+    <div class="docs-galley" style="height: @Height; width: @Width;">
+        <ul id="@Options.id" class="docs-pictures clearfix">
+            @foreach (var item in Images)
+            {
+                var alt = (Alts != null && Alts.Any()) ? Alts[Images.IndexOf(item)] : (item.Split('/').Last());
+                <li><img src="@item" alt="@alt"></li>
+            }
+        </ul>
+    </div>
+
+}
+
+<link href="/lib/viewerjs/viewer.css" rel="stylesheet" />
+
+@code {
+    /// <summary>
+    /// 使用内置图片DIV
+    /// </summary>
+    [Parameter] public bool UseBuiltinImageDiv { get; set; } = true;
+
+    /// <summary>
+    /// 图片列表
+    /// </summary>
+    [Parameter] public List<string> Images { get; set; } = new List<string>();
+
+    /// <summary>
+    /// 单图片
+    /// </summary>
+    [Parameter] public string? Src { get; set; }
+
+    /// <summary>
+    /// 图片名称列表
+    /// </summary>
+    [Parameter] public List<string>? Alts { get; set; }
+
+    /// <summary>
+    /// 组件初始化参数
+    /// </summary>
+    [Parameter] public ViewerOptions Options { get; set; } = new ViewerOptions();
+
+    /// <summary>
+    /// 简化版工具条
+    /// </summary>
+    [Parameter] public bool? toolbarlite { get; set; }
+
+    /// <summary>
+    /// 高
+    /// </summary>
+    [Parameter] public string? Height { get; set; } = "400px";
+
+    /// <summary>
+    /// 宽
+    /// </summary>
+    [Parameter] public string? Width { get; set; } = "400px";
+
+    /// <summary>
+    /// 组件ID
+    /// </summary>
+    [Parameter] public string? ID { get; set; }
+
+    private IJSObjectReference? module;
+
+    protected override void OnInitialized()
+    {
+        Options ??= new ViewerOptions();
+        if (toolbarlite != null) Options.toolbarlite = toolbarlite.Value;
+        if (!string.IsNullOrEmpty(ID)) Options.id = ID; else Options.id = Guid.NewGuid().ToString();
+        Images ??= new List<string>();
+        if (Src != null)
+            Images.Add(Src);
+        else if (!Images.Any())
+        {
+            for (int i = 1; i <= 9; i++)
+            {
+                Images.Add("./favicon.ico");
+            }
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            module = await JS.InvokeAsync<IJSObjectReference>("import", "/js/viewerInterop.js");
+            await module.InvokeVoidAsync("initOptions", Options);
+        }
+    }
+
+    public async Task OnOptionsChanged(ViewerOptions options) => await module!.InvokeVoidAsync("initOptions", options);
+
+    async ValueTask IAsyncDisposable.DisposeAsync()
+    {
+        if (module is not null)
+        {
+            await module.InvokeVoidAsync("destroy", Options);
+            await module.DisposeAsync();
+        }
+    }
+
+    /// <summary>
+    /// 图片浏览器选项类
+    /// </summary>
+    public class ViewerOptions
+    {
+        /// <summary>
+        /// 图片浏览器选项
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="fullscreen"></param>
+        public ViewerOptions(string id = "images", bool fullscreen = true)
+        {
+            this.id = id;
+            this.fullscreen = fullscreen;
+        }
+        public string id { get; set; } = "images";
+
+        /// <summary>
+        /// 简化版工具条
+        /// </summary>
+        public bool toolbarlite { get; set; }
+        public string container { get; set; } = "body";
+
+        /// <summary>
+        /// 背景遮罩
+        /// </summary>
+        [DisplayName("背景遮罩")]
+        public bool backdrop { get; set; } = true;
+
+        /// <summary>
+        /// 右上角的关闭按钮
+        /// </summary>
+        [DisplayName("关闭按钮")]
+        public bool button { get; set; } = true;
+
+        public bool focus { get; set; } = true;
+
+        /// <summary>
+        /// 全屏
+        /// </summary>
+        [DisplayName("全屏")]
+        public bool fullscreen { get; set; } = true;
+
+        /// <summary>
+        /// 内联/模态模式
+        /// </summary>
+        [DisplayName("内联/模态模式")]
+        public bool inline { get; set; } = false;
+
+        /// <summary>
+        ///
+        /// </summary>
+        public int interval { get; set; } = 5000;
+
+        /// <summary>
+        /// 键盘导航快捷键
+        /// </summary>
+        [DisplayName("键盘导航快捷键")]
+        public bool keyboard { get; set; } = true;
+
+        /// <summary>
+        ///
+        /// </summary>
+        public bool loading { get; set; } = true;
+
+        /// <summary>
+        /// 循环播放
+        /// </summary>
+        [DisplayName("循环播放")]
+        public bool loop { get; set; } = true;
+
+        /// <summary>
+        ///
+        /// </summary>
+        public int maxZoomRatio { get; set; } = 100;
+
+        /// <summary>
+        ///
+        /// </summary>
+        public int minHeight { get; set; } = 100;
+
+        /// <summary>
+        ///
+        /// </summary>
+        public int minWidth { get; set; } = 200;
+
+        /// <summary>
+        ///
+        /// </summary>
+        public double minZoomRatio { get; set; } = 0.01;
+
+        /// <summary>
+        /// 可移动
+        /// </summary>
+        [DisplayName("可移动")]
+        public bool movable { get; set; } = true;
+
+        /// <summary>
+        /// 导航
+        /// </summary>
+        [DisplayName("导航")]
+        public bool navbar { get; set; } = true;
+
+        /// <summary>
+        /// 可旋转
+        /// </summary>
+        [DisplayName("可旋转")]
+        public bool rotatable { get; set; } = true;
+
+        /// <summary>
+        /// 可缩放
+        /// </summary>
+        [DisplayName("可缩放")]
+        public bool scalable { get; set; } = true;
+
+        /// <summary>
+        /// 滑动触摸
+        /// </summary>
+        [DisplayName("滑动触摸")]
+        public bool slideOnTouch { get; set; } = true;
+
+        /// <summary>
+        /// 标题
+        /// </summary>
+        [DisplayName("标题")]
+        public bool title { get; set; } = true;
+
+        /// <summary>
+        /// 双击切换
+        /// </summary>
+        [DisplayName("双击切换")]
+        public bool toggleOnDblclick { get; set; } = true;
+
+        /// <summary>
+        /// 工具栏
+        /// </summary>
+        [DisplayName("工具栏")]
+        public bool toolbar { get; set; } = true;
+
+        /// <summary>
+        /// 工具提示
+        /// </summary>
+        [DisplayName("工具提示")]
+        public bool tooltip { get; set; } = true;
+
+        /// <summary>
+        /// 过渡效果
+        /// </summary>
+        [DisplayName("过渡效果")]
+        public bool transition { get; set; } = true;
+
+        /// <summary>
+        /// 触摸缩放
+        /// </summary>
+        [DisplayName("触摸缩放")]
+        public bool zoomOnTouch { get; set; } = true;
+
+        /// <summary>
+        /// 滚轮缩放
+        /// </summary>
+        [DisplayName("触摸缩放")]
+        public bool zoomOnWheel { get; set; } = true;
+
+        /// <summary>
+        /// 缩放率
+        /// </summary>
+        [DisplayName("缩放率")]
+        public double zoomRatio { get; set; } = 0.1;
+
+        /// <summary>
+        /// 可缩放
+        /// </summary>
+        [DisplayName("可缩放")]
+        public bool zoomable { get; set; } = true;
+    }
+}
+

@@ -97,3 +97,4 @@ C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\I
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\320184058\source\repos\Blazor4eCharts\Blazor4eCharts\obj\Debug\net6.0\scopedcss\Pages\ViewerJS.razor.rz.scp.css

@@ -1,5 +1,8 @@
 using Blazor4eCharts.Data;
+using Blazor4Learning;
+using Blazor4Learning.Components;
 using Blazor4Learning.Services;
+using BlazorPro.BlazorSize;
 using DataAccessLibrary;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
@@ -16,8 +19,11 @@ builder.Services.AddScoped<UploadPicAndVideoService>();
 builder.Services.AddBootstrapBlazor();
 builder.Services.AddHttpClient();
 builder.Services.AddMudServices();
-builder.Services.AddRazorPages();
-builder.Services.AddServerSideBlazor();
+
+builder.Services.AddRazorComponents()
+    .AddInteractiveServerComponents();
+builder.Services.AddMediaQueryService();
+builder.Services.AddResizeListener();
 builder.Services.AddSingleton<WeatherForecastService>();
 
 builder.Services.AddScoped<SqlDataAccess>();
@@ -47,9 +53,8 @@ app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 
-app.UseRouting();
-
-app.MapBlazorHub();
-app.MapFallbackToPage("/_Host");
+app.UseAntiforgery();
+app.MapRazorComponents<App>()
+    .AddInteractiveServerRenderMode();
 
 app.Run();

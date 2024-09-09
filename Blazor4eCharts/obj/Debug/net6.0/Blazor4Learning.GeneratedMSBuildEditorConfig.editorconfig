@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/ImgViewerDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1nVmlld2VyRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +56,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/SystemCharts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ2hhcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/Tooltip.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9vbHRpcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/UploadPicAndVideo.razor]
@@ -73,6 +81,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Pages/ViewerJS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld2VySlMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6p2la9dhle
 
 [C:/Users/320184058/source/repos/Blazor4eCharts/Blazor4eCharts/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

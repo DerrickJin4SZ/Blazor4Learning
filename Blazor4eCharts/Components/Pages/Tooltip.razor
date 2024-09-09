@@ -1,0 +1,127 @@
+﻿@page "/tooltip"
+
+<h3>Tooltip</h3>
+<style>
+    .custom_tooltip {
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        background-color: #282828;
+        color: #f1f1f1;
+        padding: 1em 3em;
+        border-radius: 1em;
+    }
+
+    .custom_tooltip .custom_tooltiptext {
+        visibility: hidden;
+        width: 200px;
+        background-color: #28282817;
+        color: #282828;
+        text-align: center;
+        border-radius: 5px;
+        padding: 10px;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+
+    .custom_tooltip:hover .custom_tooltiptext {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    .custom_tooltip .custom_tooltiptext::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        border-width: 8px;
+        border-style: solid;
+        border-color: #28282817 transparent transparent transparent;
+        transform: translateX(-50%);
+    }
+</style>
+
+<div class="custom_tooltip">
+    Hover me
+    <div class="custom_tooltiptext">Hi there !</div>
+</div>
+
+<style>
+    .card {
+        width: 190px;
+        height: 254px;
+        background: #3405a3;
+        border-radius: 15px;
+        box-shadow: 1px 5px 60px 0px #100a886b;
+    }
+
+        .card .card-border-top {
+            width: 60%;
+            height: 3%;
+            background: #6b64f3;
+            margin: auto;
+            border-radius: 0px 0px 15px 15px;
+        }
+
+        .card span {
+            font-weight: 600;
+            color: white;
+            text-align: center;
+            display: block;
+            padding-top: 10px;
+            font-size: 16px;
+        }
+
+        .card .job {
+            font-weight: 400;
+            color: white;
+            display: block;
+            text-align: center;
+            padding-top: 3px;
+            font-size: 12px;
+        }
+
+        .card .img {
+            width: 70px;
+            height: 80px;
+            background: #6b64f3;
+            border-radius: 15px;
+            margin: auto;
+            margin-top: 25px;
+        }
+
+        .card button {
+            padding: 8px 25px;
+            display: block;
+            margin: auto;
+            border-radius: 8px;
+            border: none;
+            margin-top: 30px;
+            background: #6b64f3;
+            color: white;
+            font-weight: 600;
+        }
+
+        .card button:hover {
+            background: #534bf3;
+        }
+</style>
+<div class="card">
+    <div class="card-border-top">
+    </div>
+    <div class="img">
+    </div>
+    <span> Person</span>
+    <p class="job"> Job Title</p>
+    <button>
+        Click
+    </button>
+</div>
+@code {
+
+}

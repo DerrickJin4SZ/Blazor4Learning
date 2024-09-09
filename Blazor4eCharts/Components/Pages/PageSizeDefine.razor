@@ -1,0 +1,53 @@
+﻿@page "/resizeByBreakPoint"
+@using Blazor4eCharts.Data
+@inject IResizeListener ResizeListener
+@inject WeatherForecastService ForecastService
+
+<h3>PageSizeDefine</h3>
+
+@if (IsSmall)
+{
+    <h3>This is a small screen.</h3>
+}
+else if (IsMedium)
+{
+    <h3>This is a medium screen.</h3>
+}
+else
+{
+    <h3>This is a large or extra large screen.</h3>
+}
+
+@code {
+    private bool IsSmall;
+    private bool IsMedium;
+    private bool IsLarge;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        // Subscribe to window resize events during component initialization
+        ResizeListener.OnResized += HandleResize;
+        
+        // Get the initial window size
+        var browserSize = await ResizeListener.GetBrowserWindowSize();
+        HandleResize(this, browserSize);  // Pass the correct parameters
+    }
+
+    // The event handler must match the signature: object and BrowserWindowSize
+    private void HandleResize(object sender, BrowserWindowSize size)
+    {
+        // Adjust the logic based on screen width
+        IsSmall = size.Width <= 600;
+        IsMedium = size.Width > 600 && size.Width <= 960;
+        IsLarge = size.Width > 960;
+
+        // Trigger a re-render to update the UI
+        InvokeAsync(StateHasChanged);  // Safely update the UI
+    }
+
+    // Unsubscribe from the resize listener when the component is disposed
+    public void Dispose()
+    {
+        ResizeListener.OnResized -= HandleResize;
+    }
+}

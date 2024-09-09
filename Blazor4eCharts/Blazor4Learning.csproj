@@ -1,23 +1,24 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BootstrapBlazor" Version="8.4.7" />
-    <PackageReference Include="BootstrapBlazor.SummerNote" Version="8.0.2" />
+    <PackageReference Include="BlazorPro.BlazorSize" Version="8.0.0" />
+    <PackageReference Include="BootstrapBlazor" Version="8.9.1" />
+    <PackageReference Include="BootstrapBlazor.SummerNote" Version="8.0.3" />
     <PackageReference Include="BootstrapBlazor.VideoPlayer" Version="8.0.6" />
-    <PackageReference Include="ClosedXML" Version="0.102.2" />
-    <PackageReference Include="Dapper" Version="2.1.24" />
+    <PackageReference Include="ClosedXML" Version="0.102.3" />
+    <PackageReference Include="Dapper" Version="2.1.35" />
     <PackageReference Include="FFMpegCore" Version="5.1.0" />
-    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.4" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.25" />
-    <PackageReference Include="Microsoft.JSInterop" Version="6.0.28" />
-    <PackageReference Include="MudBlazor" Version="6.15.0" />
-    <PackageReference Include="System.Drawing.Common" Version="8.0.2" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.JSInterop" Version="8.0.8" />
+    <PackageReference Include="MudBlazor" Version="7.8.0" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.8" />
   </ItemGroup>
 
   <ItemGroup>

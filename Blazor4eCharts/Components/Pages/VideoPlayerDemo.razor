@@ -1,0 +1,42 @@
+﻿@page "/videoplayershow"
+@inject IJSRuntime jsRuntime
+
+
+<!--
+//Htmml组件设定
+<video id="my-player"
+       class="video-js"
+       controls
+       preload="auto"
+       poster="/pic/2023090814282682.jpg"
+       data-setup='{}'>
+    <source src="/video/2024-05-06-08-50-39.mp4" type="video/mp4" />
+    <p class="vjs-no-js">
+        To view this video please enable JavaScript, and consider upgrading to a
+        web browser that
+        <a href="https://videojs.com/html5-video-support/" target="_blank">
+            supports HTML5 video
+        </a>
+    </p>
+</video>
+-->
+<!--
+<video id="my-player"
+       class="video-js"
+       muted >
+    <p class="vjs-no-js">
+        To view this video please enable JavaScript, and consider upgrading to a
+        web browser that
+        <a href="https://videojs.com/html5-video-support/" target="_blank">
+            supports HTML5 video
+        </a>
+    </p>
+</video>-->
+
+
+<VideoPlayer SourcesType="video/mp4"  SourcesUrl="/video/20240509_005200000_iOS.MOV" Width="1080" Height="720" />
+
+
+@code {
+
+}
