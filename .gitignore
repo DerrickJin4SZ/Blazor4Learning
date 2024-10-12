@@ -543,3 +543,6 @@ appsettings.json
 /Blazor4eCharts/wwwroot/video
 /Blazor4eCharts/wwwroot/pic
 /Blazor4eCharts/wwwroot/CaseUploads
+/Blazor4eCharts/wwwroot/lib/*
+!/Blazor4eCharts/wwwroot/lib/jsQR.js
+/Blazor4eCharts/wwwroot/echarts
