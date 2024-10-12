@@ -546,3 +546,4 @@ appsettings.json
 /Blazor4eCharts/wwwroot/lib/*
 !/Blazor4eCharts/wwwroot/lib/jsQR.js
 /Blazor4eCharts/wwwroot/echarts
+/Blazor4eCharts/obj/*
